@@ -1,5 +1,6 @@
 # Shared-Wallet
 Real-World Use-Case
+
 💡 Allowance for Children per day/week/month to be able to spend a certain amount of funds.
 
 💡 Employers give employees an allowance for their travel expenses.
