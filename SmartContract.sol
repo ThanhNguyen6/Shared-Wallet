@@ -1,6 +1,6 @@
 pragma solidity ^0.6.1;
 
-import "https://github.com/OpenZeppelin/openzeppelin-contracts/contracts/math/SafeMath.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v2.5.0/contracts/math/SafeMath.sol";
 import "./Allowance.sol";
 
 contract SharedWallet is Allowance {
